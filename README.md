@@ -24,8 +24,8 @@ de desarrollo y pruebas.
 | Nombre | Version |Url |
 |   :---:   |   :---:   |   :---:   |
 |   Node    |   >16.0   | [https://nodejs.org/en] |
-|   Baileys    |   >16.0   | [https://github.com/WhiskeySockets/Baileys] |
-|   Express    |   >16.0   | [https://github.com/expressjs/express] |
+|   Baileys |   >16.0   | [https://github.com/WhiskeySockets/Baileys] |
+|   Express |   >16.0   | [https://github.com/expressjs/express] |
 
 
 ## Instalación 🔧 y despliegue 📦
